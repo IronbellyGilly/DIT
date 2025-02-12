@@ -55,4 +55,4 @@ check_string_brackets(")(")          # Вывод: NO
 check_string_brackets("")             # Вывод: YES
 
 
-#test
+#test222222
